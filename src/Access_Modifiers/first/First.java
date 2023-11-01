@@ -1,2 +1,13 @@
-package Access_Modifiers.first;public class First {
+package Access_Modifiers.first;
+
+public class First {
+    public String str;
+
+    public First(String str) {
+        this.str = str;
+    }
+
+    public void show() {
+        System.out.println(this.str);
+    }
 }
