@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54cd7352-292c-4a77-ab20-c0f3ee24c1be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Static_Keyword/Daire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Static_Keyword/FinalKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Encapsulation/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Encapsulation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RelationsBetweenClasses/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RelationsBetweenClasses/Instructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RelationsBetweenClasses/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RelationsBetweenClasses/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +49,26 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RelationsBetweenClasses.Main" />
+      <module name="Java102" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="RelationsBetweenClasses.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
