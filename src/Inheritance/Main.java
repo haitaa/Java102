@@ -8,5 +8,11 @@ public class Main {
         //Asistan mustafa = new Asistan("Mustafa Haita", "5369503282", "mustafa@gmail.com", "CENG", "PROF", "12:00");
         LabAsistani mustafa = new LabAsistani("Mustafa Haita", "5369503282", "mustafa@gmail.com", "CENG", "PROF", "12:00");
         mustafa.derseGir();
+
+        // Method Overloading
+        mustafa.giris("20:00", "24:00");
+
+        a1.giris();
+        mustafa.giris();
     }
 }
