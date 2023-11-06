@@ -7,12 +7,18 @@ public class Main {
         Memur m1 = new Memur("Ali Veli", "293823232", "a@patika.dev", "Bilgi İşlem", "09:00-18:00");
         //Asistan mustafa = new Asistan("Mustafa Haita", "5369503282", "mustafa@gmail.com", "CENG", "PROF", "12:00");
         LabAsistani mustafa = new LabAsistani("Mustafa Haita", "5369503282", "mustafa@gmail.com", "CENG", "PROF", "12:00");
-        mustafa.derseGir();
+        //mustafa.derseGir();
 
         // Method Overloading
-        mustafa.giris("20:00", "24:00");
+        //mustafa.giris("20:00", "24:00");
 
-        a1.giris();
-        mustafa.giris();
+        //a1.giris();
+        //mustafa.giris();
+        //m1.giris();
+
+        // Polymorphism
+        //int[] loginUser = new int[5];
+        Calisan[] loginUser = {c1, a1, m1, mustafa};
+        Calisan.girisYapanlar(loginUser);
     }
 }
