@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54cd7352-292c-4a77-ab20-c0f3ee24c1be" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Interface_/ABankasi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface_/BBankasi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface_/IBanka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interface_/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritance/Akademisyen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/Akademisyen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritance/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
