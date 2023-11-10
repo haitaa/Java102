@@ -31,7 +31,7 @@ public class Main {
                 break;
             case 2:
                 BBankasi bPos = new BBankasi("B Bankası", "32738232", "23829382");
-                bPos.connect();
+                //bPos.connect();
                 bPos.sendCardInfo(price, cardNumber, expireDate, cvc);
                 break;
             default:
