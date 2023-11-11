@@ -20,6 +20,7 @@ public class Main {
         //Local local = new Local();
         //local.run();
 
+        /*
         Anonym anonym = new Anonym() {
             public int a = 20;
             @Override
@@ -34,5 +35,18 @@ public class Main {
             }
         };
         anonym.run();
+         */
+
+        // Boxing
+        // Unboxing
+
+        int a = 10;
+
+        // Autoboxing
+        Integer b = a; // Integer.valueOf(a);
+
+        // Boxing
+        Integer c = Integer.valueOf(a);
+
     }
 }
