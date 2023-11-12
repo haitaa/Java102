@@ -15,16 +15,20 @@ public class Main {
         t.showInfo();
          */
 
+        /*
         String[] a = {"Java", "102", "Patika", "Dev"};
         Integer[] b = {1, 2, 3, 4};
         Character[] c = {'J', 'A', 'V', 'A'};
 
         Print.printArray(a, b);
 
-        /*
+
         Print.printArray(a);
         Print.printArray(b);
         Print.printArray(c);
         */
+
+        Student<String> stu = new Student<>();
+        stu.insert("Patika");
     }
 }
