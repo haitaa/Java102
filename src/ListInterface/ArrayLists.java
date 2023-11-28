@@ -2,7 +2,7 @@ package ListInterface;
 
 import java.util.List;
 
-public class ArrayList {
+public class ArrayLists {
     public static void main(String[] args) {
         List<Integer> liste = new java.util.ArrayList<>();
         liste.add(10);
