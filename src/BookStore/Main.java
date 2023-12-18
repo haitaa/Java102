@@ -9,7 +9,7 @@ public class Main {
         Book b1 = new Book("Harry Potter", 853, "JK. Rowling", 2005);
         Book b2 = new Book("LOTR", 650, "Mustafa Haita", 1997);
         Book b3 = new Book("Sherlock Holmes", 423, "Ahmet Çakar", 1863);
-        Book b4 = new Book("Anna karina 1", 254, "Can Bozyiğit", 1969);
+        Book b4 = new Book("Anna Karina 1", 254, "Can Bozyiğit", 1969);
         Book b5 = new Book("Anna karina 2", 327, "Can Bozyiğit", 1974);
 
         /*
